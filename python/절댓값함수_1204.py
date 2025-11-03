@@ -7,4 +7,3 @@ def abs(n):
         return n
 
 print(f'{n}의 절댓값은 {abs(n)}입니다.')
-    
